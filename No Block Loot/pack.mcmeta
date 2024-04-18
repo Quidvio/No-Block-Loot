@@ -2,7 +2,7 @@
   "pack": {
     "description": [
       {
-        "text": "No Block Loot",
+        "text": "No Block Loot or Block Drops",
         "color": "#6b1b25"
       },
       "\n",
@@ -25,7 +25,7 @@
     "entries": [
       {
         "formats": [
-          999,
+          26,
           999
         ],
         "directory": "overlay1"
